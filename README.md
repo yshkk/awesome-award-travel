@@ -46,6 +46,7 @@ This list covers everything from real-time award alerts and search engines to cr
 
 * [Doctor of Credit](https://www.doctorofcredit.com) - Comprehensive resource for credit card bonuses and bank account offers.
 * [Frequent Miler](https://frequentmiler.com) - In-depth credit card and points strategy guides.
+* [ReviewPromo](https://reviewpromo.com) - Curated directory of referral codes and signup bonuses across finance, travel, and services, with the current bonus amount listed per brand.
 * [TravelFreely](https://travelfreely.com) - Track 5/24 status, sign-up bonus eligibility, and reminders.
 * [CardPointers](https://cardpointers.com) - iOS app for maximizing card rewards on every purchase.
 
@@ -92,6 +93,7 @@ This list covers everything from real-time award alerts and search engines to cr
 - [Awesome Invoicing](https://awesomedirectory.github.io/awesome-invoicing/) - Invoicing software, AR automation, expense trackers, and payment platforms for freelancers and small businesses.
 - [Awesome PR Tools](https://awesomedirectory.github.io/awesome-pr-tools/) - PR software, journalist databases, media monitoring tools, and outreach platforms for founders and comms teams.
 - [Awesome Tech Sales](https://awesomedirectory.github.io/awesome-tech-sales/) - Tools, contact databases, and resources for selling SaaS and infrastructure to engineering, IT, and tech-leadership buyers.
+- [Awesome Private Practice](https://awesomedirectory.github.io/awesome-private-practice/) - Practice management, billing, scheduling, documentation, and marketing tools for therapists, counselors, and small clinical practices.
 ## Contributing
 
 Know an award-travel tool that should be on this list? Add it!
