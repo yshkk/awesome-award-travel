@@ -33,6 +33,7 @@ This list covers everything from real-time award alerts and search engines to cr
 * [Roame.travel](https://roame.travel) - Award flight search engine with cash-equivalent valuations.
 * [AwardHacker](https://awardhacker.com) - Cheapest award redemption finder for a given route.
 * [AwardLogic](https://awardlogic.com) - Multi-program award search with AI route discovery.
+* [Asia Miles Calculator](https://asiamiles-calculator.site/) - Free Asia Miles calculator and Cathay Pacific award ticket search.
 
 ## Points & Miles Trackers
 *Manage balances, expirations, and program statuses in one place.*
